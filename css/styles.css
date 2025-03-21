@@ -82,7 +82,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .header-nav{
     display: flex;
-    gap: 76px;
     align-items: center;
 }
 
@@ -247,7 +246,6 @@ h1, h2, h3, h4, h5, h6 {
 .portfolio-list {
     display: flex;
     flex-wrap: wrap;
-    padding-bottom: 72px;
     column-gap: 24px;
     row-gap: 48px;
 }
